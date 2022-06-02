@@ -21,7 +21,7 @@ Rather than use the SD card image above, you can install the files on your exist
 
 1. It is recommended to start from a fresh OS install (latest Raspbian Buster release)
 2. Increase GPU memory to (at least) 256 (sudo raspi-config -> Advanced Options -> Memory Split)
-3. From a command shell, type : wget https://github.com/chundermike/rpi-fruitbox/raw/master/install.sh
+3. From a command shell, type : wget https://github.com/ThePapaw/rpi-fruitbox/raw/master/install.sh
 4. From a command shell, type : chmod +x ./install.sh
 5. From a command shell, type : source ./install.sh
 6. Copy your music MP3 files (either to the SD card or USB memory stick)
